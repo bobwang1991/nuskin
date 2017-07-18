@@ -1,0 +1,16 @@
+/*袁相成添加的样式；*/
+#dashi p,#plan p{
+	text-indent: 2em;
+}
+#dashi{width:720px;margin-left:15px;}
+#dashi .trap{margin-top:15px;margin-bottom:20px;text-align:right;}
+
+#plan{width:720px;margin-left:15px;margin-top:50px;}
+#plan .train{text-align:right;margin-top:15px;}
+.train .left_img{float:left;margin-left:20px;}
+.train .img_top,.img_bottom{float:right;width:500px;}
+.img_bottom .bottom_1,.bottom_2{width:90px;float:left;}
+.img_bottom .bottom_2{margin-left:25px;}
+.welcome{float: right;}
+
+

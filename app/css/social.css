@@ -1,0 +1,28 @@
+.q_a img{
+    vertical-align: middle;
+}
+.q_a{margin-top: 12px;
+    margin-bottom: 30px;
+}
+.q_a p{
+    /*text-indent: 2em;*/
+    padding-top: 2px;
+    padding-left:27px;
+    color: #027095;
+}
+.q_a span{
+    padding-left: 10px;
+}
+
+#content{
+	padding-bottom: 0;
+}
+
+.tab a:hover{
+	color: blue;
+}
+
+.weixin{margin-top: 50px;}
+.guding{position: static;}
+
+.job_keywords{border:none; width: 157px;height: 22px;text-align: center;background: #027196;color: white;}

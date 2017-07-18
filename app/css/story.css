@@ -1,0 +1,68 @@
+.banner{
+	
+	width: 730px;
+	float: left;
+}
+
+.small_imgs{
+	border: 1px solid #c5edf2;
+	height: auto;
+	height: 165px;	
+}
+
+.pre,.next{
+	float: left;
+	display: block;
+	height: 60px;
+	width: 20px;
+	margin-top: 45px;
+
+}
+.pre:hover,.next:hover{
+	cursor: pointer;
+}
+.pre{
+	margin-right: 2px;
+	margin-left: 5px;
+}
+.next{
+	margin-left: 2px;
+}
+
+.small_img{
+	margin-top: 10px;
+	float: left;
+	height: 120px;
+	width: 165px;
+}
+
+.small_img+.small_img{
+	margin-left: 5px;
+}
+
+.small_img img{
+	width: 100%;
+	height: 100%;
+}
+
+.small_img span{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-top: 5px;
+	font-family: "微软雅黑";
+	font-weight: 600;
+	color: gray;
+}
+
+.small_imgs div{
+	float: left;
+}
+
+
+.description{
+	height: 120px;
+	width: 730px;
+	float: left;
+}
+.desc{  color: gray; font-size: 16px; font-family: "微软雅黑"  ;float: left;	height: 40%;	width: 50%;	margin-top: 1%;}

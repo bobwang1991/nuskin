@@ -1,0 +1,88 @@
+#company_02 p{
+    text-indent: 2em;
+}
+#life_02 p{
+    text-indent: 2em;
+}
+#tongue_02 p{
+    text-indent: 2em;
+    margin-top: 20px;
+}
+#happy_02 p{
+    text-indent: 2em;
+}
+.life_pic_total{
+    text-indent: 2em;
+    width:100%;
+}
+.life_pic_total_02{
+    text-indent: 2em;
+    width:170px;
+}
+.life_pic_total_03{
+    text-indent: 2em;
+    width:170px;
+}
+.life_pic_total_04{
+    text-indent: 1em;
+    width:100%;padding-left: 190px;
+    margin-top: -238px;
+}
+.life_pic_total_05{
+    text-indent: 1em;
+    width:100%;padding-left: 359px;
+    margin-top: -238px;
+}
+.happy_pic_total{
+    text-indent: 2em;
+    width:100%;
+}
+.happy_pic_total_02{
+    text-indent: 2em;
+    width:100%;
+    padding-left: 206px;
+    margin-top: -279px;
+}
+.happy_pic_total_03{
+    text-indent: 2em;
+    width:100%;
+    padding-left: 206px;
+}
+.happy_pic_total_04{
+    text-indent: 2em;
+    width:100%;
+    margin-top: -156px;
+}
+
+.street_enter_02{
+
+    margin-bottom: 35px;
+    position: relative;
+
+    left:18px;
+    top: -39px;
+    width:712px;
+    text-align: right;
+}
+
+.pic_bq{
+    position: relative;
+    top:-174px;
+    left:39px;
+    width:671px;
+    text-align: right;display: none;
+}
+.pic_bq_01{
+    position: relative;
+    top:-174px;
+    left:39px;
+    width:671px;
+    text-align: right;display: none;
+}
+.pic_bq_02{
+    position: relative;
+    top:-174px;
+    left:39px;
+    width:671px;
+    text-align: right;display: none;
+}

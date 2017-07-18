@@ -1,0 +1,41 @@
+/*袁相成添加的样式；*/
+.gcip{width:720px;margin:10px 0 20px 40px;position:relative;}
+.gcip p{margin:10px 0;text-indent:30px;}
+
+
+.table{position:relative;height:630px;margin-bottom: 135px;}
+.grid{position:absolute;left:34%;color: #a5a49f;}
+form .name{position:absolute;top:19%;width:475px;font-size:20px;color: #a5a49f;outline:none;background:none;border:none;}
+form .number{position:absolute;top:28%;width:475px;font-size:20px;color: #a5a49f;outline:none;background:none;border:none;}
+form .email{position:absolute;top:36%;width:470px;font-size:20px;color: #a5a49f;outline:none;background:none;border:none;}
+form .school{position:absolute;top:45%;;width:475px;font-size:20px;color: #a5a49f;outline:none;background:none;border:none;}
+form .ident{position:absolute;top:55%;margin-left:-35px;font-size:20px;color: #000;}
+.ident span{margin-left:90px;}
+form .chang{position:absolute;top:64%;width:475px;font-size:20px;background:none;outline:none;border:none;}
+form .date{position:absolute;top:72.2%;height:40px;width:474px;font-size: 20px;color: #a5a49f;background:none;outline:none;border:none;}
+form .leixing{position:absolute;top:151%;margin-left:-110px;color:#000;}
+.leixing span{margin-left:160px;}
+form .people{position:absolute;top:91%;height:42px;width:468px;background:none;outline:none;border:none;color: #a5a49f;font-size: 17px;line-height: 42px;}
+form .tijiao{width:220px;height:48px;position:absolute;left:35%;top:83%;color:white;background:none;outline:none;border:none;font-size: 20px;
+}
+
+.tan{
+	width: 676px;
+	height: 160px;
+	position: fixed;
+	z-index: 800;
+	left: 57%;
+	top: 30%;
+	margin-left: -338px;
+	margin-top: -80px;
+	display: none;
+}
+
+.guanbi{
+	cursor: pointer;
+	position: absolute;
+	z-index: 810;
+	left: 93%;
+	top: 7%;
+}
+

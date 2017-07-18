@@ -1,0 +1,54 @@
+.q_a img{
+    vertical-align: middle;
+}
+.q_a{margin-top: 12px;
+    margin-bottom: 30px;
+}
+.q_a p{
+    /*text-indent: 2em;*/
+    padding-top: 2px;
+    padding-left:27px;
+}
+.q_a span{
+    padding-left: 10px;
+}
+
+.title_2{
+	margin-bottom: 30px;
+}
+
+.job_left{
+	float: left;
+}
+.job_left ul{
+	margin-left: 20px;
+	width: 230px;
+}
+.job_left ul li{
+	margin-bottom: 10px;
+}
+.job_left ul li div{
+	padding-left: 10px;
+	font-size: 17px;
+	height: 30px;
+	width: 150px;
+	background: url(../images/school/shixisheng/shixisheng_back_1.png) no-repeat;
+	color: white;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+.item_selected{
+	background: url(../images/school/shixisheng/shixisheng_back_1.png) no-repeat;
+}
+
+.job_name{
+	height: 40px;
+	width: 470px;
+	margin-bottom: 10px;
+	background: url(../images/school/shixisheng/shixisheng_hot.png) no-repeat;
+
+}
+.job_right{
+	float: left;
+}
